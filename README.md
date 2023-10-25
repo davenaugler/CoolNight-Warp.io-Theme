@@ -1,7 +1,7 @@
 # CoolNight Warp Theme
 
 ## Warp
-Your terminal, reimagined. Feature rich terminal for macOS. Windows/Linux is coming. Download **[Warp](https://www.warp.dev/)** or head over to use **`brew install --cask warp`**.
+Your terminal, reimagined. Feature rich terminal for macOS. Windows/Linux is coming. Download **[Warp](https://www.warp.dev/)** or install via terminal using **`brew install --cask warp`**.
 
 ## Inspiration
 Inspiration is pulled from `Josean Martinez` with his YouTube video on **[How To Make Your Boring Mac Terminal So Much Better](https://www.youtube.com/watch?v=CF1tMjvHDRA&ab_channel=JoseanMartinez)**
