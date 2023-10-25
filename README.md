@@ -11,5 +11,5 @@ I wasn't able to find the iTerm2 to Warp theme converter so I manually did it. W
 ## What's left?
 - Add bold `feature` to Warp themes
 - This is a feature request on [warpdotdev](https://github.com/warpdotdev) GitHub page
-    - [Support "Draw Bold Text In Bright Colors" option in theme #3393](https://github.com/warpdotdev/Warp/issues/3393)
+    - [Support "Draw Bold Text In Bright Colors" option in theme #3393](https://github.com/warpdotdev/Warp/issues/3393) by [Metal-joker](https://github.com/Metal-joker)
 
