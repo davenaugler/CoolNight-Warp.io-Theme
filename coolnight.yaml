@@ -1,4 +1,3 @@
-# accent: '#268bd2' # Accent color for UI elements
 accent: '#15fca2' # Accent color for UI elements
 background: '#010b17' # Terminal background color
 details: darker # Whether the theme is lighter or darker.
@@ -7,7 +6,7 @@ terminal_colors: # Ansi escape colors.
   bright:
     black: '#62686c'
     blue: '#378dfe'
-    cyan: '#ff69d7'
+    cyan: '#ff69d7' 
     green: '#73ffd8'
     magenta: '#ae81ff'
     red: '#ff54b0'
@@ -22,3 +21,8 @@ terminal_colors: # Ansi escape colors.
     red: '#ff3a3a'
     white: '#15fca2'
     yellow: '#fff383'
+
+    # Need to add bold text feature
+    # This is a feature request on warpdotdev's GitHub
+    # Support "Draw Bold Text In Bright Colors" option in theme #3393
+    # (https://github.com/warpdotdev/Warp/issues/3393)
