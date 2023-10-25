@@ -21,8 +21,3 @@ terminal_colors: # Ansi escape colors.
     red: '#ff3a3a'
     white: '#15fca2'
     yellow: '#fff383'
-
-    # Need to add bold text feature
-    # This is a feature request on warpdotdev's GitHub
-    # Support "Draw Bold Text In Bright Colors" option in theme #3393
-    # (https://github.com/warpdotdev/Warp/issues/3393)
